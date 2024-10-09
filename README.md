@@ -77,3 +77,6 @@ for these methods i would recommend starting with the smaller ones, i did not ye
 - repeat this process for as long as you like, i currently have yet to implement a way to mesh this output. i think this method has some promise
 
 
+the 3d model is generated using nnunetv2 (https://github.com/MIC-DKFZ/nnUNet/tree/master), from the following authors: 
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring 
+method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
