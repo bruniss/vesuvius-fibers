@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ada642de-0372-45bd-9a5f-33d591c52312)
+
+
 this repository is for fiber detection and prelimary autosegmentation methods for fibers in the herculaneum scrolls. there is a short writeup in here as well called fibers.pdf that gives some background information. the code in this repo is quite bad, and is filled with bugs, but i wanted to get it to the community faster than i saw myself refining this to a better state.
 
 ### to run fiber detection with the 3d model, 
