@@ -1,0 +1,13 @@
+{
+    "channel_names": {
+        "0": "T2"
+    },
+    "labels": {
+        "background": 0,
+        "horizontal": 1,
+        "vertical": 2
+    },
+    "numTraining": 6,
+    "file_ending": ".tif",
+    "overwrite_image_reader_writer": "Tiff3DIO"
+}

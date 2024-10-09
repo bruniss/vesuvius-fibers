@@ -1,0 +1,63 @@
+[
+    {
+        "train": [
+            "im",
+            "mush",
+            "part_1",
+            "part_2",
+            "part_3"
+        ],
+        "val": [
+            
+            "part_4"
+        ]
+    },
+    {
+        "train": [
+            "im",
+            "mush",
+            "part_1",
+            "part_2",
+            "part_4"
+        ],
+        "val": [
+            "part_3"
+        ]
+    },
+    {
+        "train": [
+            "mush",
+            "part_1",
+            "part_2",
+            "part_3",
+            "part_4"
+        ],
+        "val": [
+            "im"
+        ]
+    },
+    {
+        "train": [
+            "im",
+            "part_1",
+            "part_2",
+            "part_3",
+            "part_4"
+        ],
+        "val": [
+            "mush"
+        ]
+    },
+    {
+        "train": [
+            "im",
+            "mush",
+            "part_2",
+            "part_3",
+            "part_4"
+        ],
+        "val": [
+            "part_1"
+        ]
+    }
+]
