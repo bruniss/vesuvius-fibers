@@ -67,6 +67,7 @@ for these methods i would recommend starting with the smaller ones, i did not ye
         print(f"Splines exported to {filename}")
     ```
 - to generate the obj then type `quick_export_splines_to_obj('interp splines from nodes')`
+- once you export this obj, you will need to create faces and such for it. to do this you can load the mesh up in meshlab, apply ball pivoting reconstruction, and then i would recommend using a laplacian smoothing filter. then check for non-manifold edges and you should have a workable mesh which you can import into khartes to inspect
 
 ### for the horizontal/vertical matching method
 - repeat the same steps as above to the point where you have two volumes of connected components, one for verticals and one for horizontals
