@@ -81,3 +81,5 @@ for these methods i would recommend starting with the smaller ones, i did not ye
 the 3d model is generated using nnunetv2 (https://github.com/MIC-DKFZ/nnUNet/tree/master), from the following authors: 
 Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring 
 method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+
+labels were created using the software dragonfly3d , located here: https://www.theobjects.com/index.html
